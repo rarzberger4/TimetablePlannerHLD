@@ -1,5 +1,4 @@
-
-HLD.out
+*.out
 *.aux
 *.log
 *.pdf
